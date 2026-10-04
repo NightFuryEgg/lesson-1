@@ -279,7 +279,7 @@ MonoBehaviour:
   cubePrefab: {fileID: 7311611830315110611, guid: 34d199c639847564d855ee3fab7c635c, type: 3}
   radius: 2
   height: 0
-  numberOfCubes: 2
+  numberOfCubes: 5
 --- !u!4 &1776409066
 Transform:
   m_ObjectHideFlags: 0
